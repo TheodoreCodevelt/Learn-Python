@@ -54,7 +54,6 @@ print(new_list)
 
 if 1 > 0: # if statement (if 1 is more than 0 do)
     print('hello world')
-    break # stops the program
 else: # else condition of the statement (else do)
     print("joe mama")
-    break
+
